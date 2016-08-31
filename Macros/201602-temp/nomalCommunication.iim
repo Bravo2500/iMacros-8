@@ -1,0 +1,6 @@
+﻿VERSION BUILD=8961227 RECORDER=FX
+SET !TIMEOUT_TAG 0
+SET !EXTRACT NULL
+TAG POS=1 TYPE=INPUT:IMAGE FORM=ACTION:http://sp.pf.mbga.jp/12008305/?guid=ON&url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fevent_produce%2Fraid_battle%2F1%2F4%3Fl_frm%3DEvent_produce_1%26rnd%* ATTR=SRC:http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fevent%2F1705%2Frich%2Fbutton_special.png%3Fv*
+TAG POS=1 TYPE=INPUT:IMAGE FORM=ACTION:http://sp.pf.mbga.jp/12008305/?guid=ON&url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fevent_produce%2Fraid_battle%2F0%2F4%3Fl_frm%3DEvent_produce_2* ATTR=SRC:http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fevent%2F1705%2Frich%2Fbutton_normal_03.png*
+TAG POS=1 TYPE=INPUT:IMAGE FORM=ACTION:http://sp.pf.mbga.jp/12008305/?guid=ON&url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fevent_produce%2Fraid_battle%2F0%2F4%3Fl_frm%3DEvent_produce_1%26rnd%* ATTR=SRC:http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fevent%2F1705%2Frich%2Fbutton_normal_01.png%3Fv%*

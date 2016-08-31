@@ -1,0 +1,3 @@
+﻿VERSION BUILD=8940826 RECORDER=FX
+TAG POS=1 TYPE=A ATTR=HREF:http://sp.pf.mbga.jp/12008305/?guid=ON&url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fevent_challenge%2Fget_nothing%2F2%2F2%2F8%2F5%2F8%2F202%2F0%3Fl_frm%3DEvent_challenge_1%26rnd%3D731610519#newBox_challenge02
+TAG POS=3 TYPE=INPUT:SUBMIT FORM=ACTION:http://sp.pf.mbga.jp/12008305/?guid=ON&url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fevent_challenge%2Fstart_burst_bonus%3Fl_frm%3DEvent_challenge_1%26rnd%3D402047184 ATTR=*
