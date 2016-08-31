@@ -1,0 +1,4 @@
+﻿VERSION BUILD=8940826 RECORDER=FX
+SET !TIMEOUT_TAG 0
+SET !EXTRACT NULL
+TAG POS=5 TYPE=IMG ATTR=SRC:http://sp.pf-img-a.mbga.jp/12008305/?guid=ON&url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fevent%2Fchallenge%2Fsprite%2Fchallenge_point%2Ficon_challenge_point_1.png%3Fv%3D20140929145413 EXTRACT=HREF
