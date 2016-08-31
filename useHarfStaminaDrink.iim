@@ -1,0 +1,5 @@
+﻿VERSION BUILD=8940826 RECORDER=FX
+TAB T=1
+URL GOTO=http://sp.pf.mbga.jp/12008305/?guid=ON&url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fitem%2Fcheck%2F8%3Fl_frm%3DItem_1%26rnd%3D351788191
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:http://sp.pf.mbga.jp/12008305/?guid=ON&url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fitem%2Fuse_item%3Fl_frm%3DItem_1* ATTR=*
+
